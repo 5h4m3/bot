@@ -1,0 +1,14 @@
+# Session files
+*.session
+*.session-journal
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
